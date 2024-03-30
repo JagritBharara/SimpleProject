@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#center{
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+
+#center:hover{
+    cursor: pointer;
+}
